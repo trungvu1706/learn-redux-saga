@@ -27,7 +27,7 @@ Content-Type: application/json
 ### 
 
 # @name updateStudent
-PATCH {{baseUrl}}/students/GIxU7qE
+PATCH {{baseUrl}}/students/shTlsFS
 Content-Type: application/json
 
 {
